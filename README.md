@@ -63,7 +63,7 @@
 
 <channel>
 <name>[B][COLOR lime]•[COLORyellow] KIDS[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/teste-/master/README.md</externallink>
+<externallink>https://pastebin.com/raw/SXMSFSSU</externallink>
 <fanart>https://www.itvonline.us/wp-content/uploads/2018/04/3-1.jpg</fanart>
 <info>[COLOR white][B]Canais do Gênero Infantil[/B][/COLOR]</info>
 <thumbnail>https://i.imgur.com/rjkY8Ng.jpg</thumbnail>
