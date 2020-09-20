@@ -69,15 +69,11 @@
 <thumbnail>https://i.imgur.com/rjkY8Ng.jpg</thumbnail>
 </channel>
 
-<channels>
-<channel>
-<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]24 HRS [/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
-<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
-<externallink>https://pastebin.com/raw/eg8Vj9fv</externallink>
-<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
-</channel>
-</channels>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channel>
+<name>[B][COLOR lime]•[COLORyellow]CANAIS 24 Horas[/COLOR][/B]</name>
+<externallink>https://pastebin.com/raw/eg8Vj9fv</externallink>
+<fanart>https://i.ytimg.com/vi/8wHU2nVTwoM/maxresdefault.jpg</fanart>
+<info>[COLOR white][B]Canais do Gênero Infantil[/B][/COLOR]</info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/200px-Logo_TVE-24h.svg.png</thumbnail>
+</channel>
