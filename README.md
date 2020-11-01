@@ -77,3 +77,15 @@
 <info>[COLOR white][B]Canais do Gênero Infantil[/B][/COLOR]</info>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/200px-Logo_TVE-24h.svg.png</thumbnail>
 </channel>
+<channels>
+<channel>
+<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white] ABERTOS REGIONAL [/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
+<thumbnail>https://antenasrio.files.wordpress.com/2010/10/canais-de-tv-aberta-no-brasil-vivem-em-disputa-por-audiencia.jpg</thumbnail>
+<externallink>https://listaiptvbrasil.com/br.m3u</externallink>
+<fanart>https://irp-cdn.multiscreensite.com/d98eed0e/dms3rep/multi/logos.png</fanart>
+<info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
