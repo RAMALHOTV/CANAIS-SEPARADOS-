@@ -4,7 +4,7 @@
 
 <channel>
 <name>[B][COLOR lime]• [COLORyellow]Todos Canais [/COLOR][/B]</name>
-<externallink>https://pastebin.com/raw/R0SrGuUb</externallink>
+<externallink>https://pastebin.com/raw/P26E38QX</externallink>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
 <info>[COLOR white][B]Canais do Gênero Todos Canais  Ramalhotv[/B][/COLOR]</info>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
