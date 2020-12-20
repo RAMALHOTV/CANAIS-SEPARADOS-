@@ -15,7 +15,7 @@
 
 <channel>
 <name>[B][COLOR lime]• [COLORyellow]TV ABERTA[/COLOR][/B]</name>
-<externallink>https://pastebin.com/raw/ayWCZP8Z</externallink>
+<externallink>https://pastebin.com/raw/2DgqZ2UT</externallink>
 <fanart>https://www.itvonline.us/wp-content/uploads/2018/04/3-1.jpg</fanart>
 <info>[COLOR white][B]Canais do Gênero Abertos[/B][/COLOR]</info>
 <thumbnail>https://i.imgur.com/7cmJh8x.jpg</thumbnail>
