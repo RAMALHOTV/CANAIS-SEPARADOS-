@@ -73,9 +73,9 @@
 <channel>
 <name>[B][COLOR lime]•[COLORyellow]CANAIS 24 Horas[/COLOR][/B]</name>
 <externallink>https://pastebin.com/raw/eg8Vj9fv</externallink>
-<fanart>https://i.ytimg.com/vi/8wHU2nVTwoM/maxresdefault.jpg</fanart>
+<fanart>https://i.pinimg.com/474x/d1/24/eb/d124eb9a9a683d5e1192aef5801835fd.jpg</fanart>
 <info>[COLOR white][B]Canais do Gênero Infantil[/B][/COLOR]</info>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/200px-Logo_TVE-24h.svg.png</thumbnail>
+<thumbnail>https://i.pinimg.com/474x/d1/24/eb/d124eb9a9a683d5e1192aef5801835fd.jpg</thumbnail>
 </channel>
 <channels>
 
