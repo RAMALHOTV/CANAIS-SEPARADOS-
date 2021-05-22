@@ -79,3 +79,11 @@
 </channel>
 <channels>
 
+<channel>
+<name>[B][COLOR lime]•[COLORyellow]CINE SKY[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/CINE-SKY-/main/README.md</externallink>
+<fanart>https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png</fanart>
+<info>[COLOR white][B]Canais do Gênero Infantil[/B][/COLOR]</info>
+<thumbnail>https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png</thumbnail>
+</channel>
+<channels>
