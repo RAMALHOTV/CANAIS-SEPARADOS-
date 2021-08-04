@@ -52,6 +52,14 @@
 <info>[COLOR white][B]Canais do Gênero Variados[/B][/COLOR]</info>
 <thumbnail>https://i.imgur.com/635ru1R.jpg</thumbnail>
 </channel>
+ 
+ <channel>
+<name>[B][COLOR lime]•[COLORyellow] Religiosos[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Religiosos/main/README.md</externallink>
+<fanart>https://img.comunidades.net/fre/freedomiptv/GRADE_RELIGIOSOS.jpg</fanart>
+<info>[COLOR white][B]Canais do Gênero de Noticiário[/B][/COLOR]</info>
+<thumbnail>https://iscarvasi.files.wordpress.com/2013/04/tvs_catolicas2.jpg?w=640</thumbnail>
+</channel>
 
 <channel>
 <name>[B][COLOR lime]•[COLORyellow] NOTICIÁRIOS[/COLOR][/B]</name>
