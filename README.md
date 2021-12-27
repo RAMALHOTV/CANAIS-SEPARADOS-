@@ -1,4 +1,4 @@
-<layoutype>list</layoutype>
+
  
 <channels>
 
