@@ -63,7 +63,7 @@
 <thumbnail>https://i.imgur.com/635ru1R.jpg</thumbnail>
 <fanart>https://www.itvonline.us/wp-content/uploads/2018/04/3-1.jpg</fanart>
 <info>[COLOR white][B]Canais do Gênero Variados[/B][/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/CANAIS-DE-VARIEDADES/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/xTekD5w9</externallink>
 </item>
 
 <item>
