@@ -72,7 +72,7 @@
 <thumbnail>https://iscarvasi.files.wordpress.com/2013/04/tvs_catolicas2.jpg?w=640</thumbnail>
 <fanart>https://img.comunidades.net/fre/freedomiptv/GRADE_RELIGIOSOS.jpg</fanart>
 <info>[COLOR white][B]Canais do Gênero de Noticiário[/B][/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/Religiosos/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/XeNadqir</externallink>
 </item>
 
 
