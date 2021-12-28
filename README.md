@@ -82,7 +82,7 @@
 <thumbnail>https://i.imgur.com/FwFHWS4.jpg</thumbnail>
 <fanart>https://www.itvonline.us/wp-content/uploads/2018/04/3-1.jpg</fanart>
 <info>[COLOR white][B]Canais do Gênero de Noticiário[/B][/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/NOTICI-RIOS/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/krBA1c9t</externallink>
 </item>
 
 
