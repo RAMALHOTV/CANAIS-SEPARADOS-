@@ -85,5 +85,14 @@
 <externallink>https://pastebin.com/raw/krBA1c9t</externallink>
 </item>
 
+<item>
+<title>>[B][COLOR lime]•[COLORyellow] PLUTO TV[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1324476546791448576/4wT1c-R1_400x400.jpg</thumbnail>
+<fanart>https://media.gazetadopovo.com.br/2020/08/27181228/Pluto-TV-660x372.jpeg</fanart>
+<info>[COLOR white][B]Canais do Gênero de Noticiário[/B][/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/f4mTester-servidor03/main/README.md</externallink>
+</item>
+
 
 
