@@ -8,7 +8,7 @@
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
 <externallink>https://pastebin.com/raw/4ShV92PN</externallink>
-<info>[COLOR white][B]Canais do Gênero Todos Canais  Ramalhotv[/B][/COLOR]</info>
+<info>[COLOR white][B]Canais do Gênero Todos Canais [/B][/COLOR]</info>
 </item>
 
 <item>
@@ -86,11 +86,21 @@
 </item>
 
 <item>
+<title>>[B][COLOR lime]•[COLORyellow] 24 Horas[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.pinimg.com/550x/0d/ea/ed/0deaed152839671aa249572fcc615623.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/3CYHUZjfC8c/maxresdefault.jpg</fanart>
+<info>[COLOR white][B]Canais do Gênero desenhos 24 Horas[/B][/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/CANAIS-24HRS/main/README.md</externallink>
+</item>
+
+
+<item>
 <title>>[B][COLOR lime]•[COLORyellow] PLUTO TV[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://pbs.twimg.com/profile_images/1324476546791448576/4wT1c-R1_400x400.jpg</thumbnail>
 <fanart>https://media.gazetadopovo.com.br/2020/08/27181228/Pluto-TV-660x372.jpeg</fanart>
-<info>[COLOR white][B]Canais do Gênero de Noticiário[/B][/COLOR]</info>
+<info>[COLOR white][B]Canais do Gênero PLUTO TV[/B][/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/f4mTester-servidor03/main/README.md</externallink>
 </item>
 
