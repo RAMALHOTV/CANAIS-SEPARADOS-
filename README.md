@@ -7,7 +7,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/M0aRl2a.jpg</thumbnail>
 <fanart>https://i.imgur.com/OhHEvFm.jpg</fanart>
-<externallink>https://pastebin.com/raw/4ShV92PN</externallink>
+<externallink>https://pastebin.com/raw/Egv9YmFE</externallink>
 <info>[COLOR white][B]Canais do Gênero Todos Canais [/B][/COLOR]</info>
 </item>
 
